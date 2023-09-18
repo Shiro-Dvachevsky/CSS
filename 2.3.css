@@ -1,0 +1,11 @@
+dt:nth-of-type(2n) {
+    background: #eee;
+}
+
+dd:nth-last-of-type(2) {
+    color: red;
+}
+
+code {
+    border: 1px solid black;
+}

@@ -1,0 +1,23 @@
+li[class] {
+    list-style-type: cambodian;
+}
+
+li[class='rofl'] {
+    color: red;
+}
+
+li[class*='fo'] {
+    background: rgba(255, 0, 0, .2);
+}
+
+li[class|='fo'] {
+    background: rgba (0, 255, 0, .2);
+}
+
+li[class='spring'] {
+    background: rgba(0, 0, 255, .2);
+}
+
+code {
+    border: 1px solid black;
+}
